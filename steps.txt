@@ -1,0 +1,14 @@
+////connect to git repositery
+//--global is used for cofigure all repositery
+git config --global user.name "<user name>"
+git config --global user.email "<email>"
+
+//local
+git config user.name "<user name>"
+git config user.email "<email>"
+
+////commit and push
+//commit massage
+
+
+//git init
