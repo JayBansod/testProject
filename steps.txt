@@ -16,4 +16,7 @@ git config user.email "<email>"
 -> git add: Gets files into staging area
 -> git commit: Use to add commits
 -> git clone: Clone/download repo
- 
+-> git log: See history of commits
+-> git branch: shows all the branches
+
+Changes in asdf
